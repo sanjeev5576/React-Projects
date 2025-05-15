@@ -1,12 +1,21 @@
-# React + Vite
+# 🔐 React Auth Project – GitHub & Google Login with Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based authentication project featuring login components using **GitHub** and **Google** providers via **Firebase Authentication**. It demonstrates modern authentication methods integrated into a scalable React application.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔒 Secure Google Login via Firebase
+- 🐙 GitHub Login integration using Firebase OAuth
+- 🔥 Firebase Authentication
+- ⚛️ Built with React (Hooks + Functional Components)
+- 📁 Modular and reusable components
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Firebase Authentication](https://firebase.google.com/docs/auth)
+- [Firebase SDK (v9+ modular)](https://firebase.google.com/docs/web/setup)
+- [React Router](https://reactrouter.com/) (optional for navigation)
+- [dotenv](https://www.npmjs.com/package/dotenv) for environment variable management
+
+## 📂 Project Structure
